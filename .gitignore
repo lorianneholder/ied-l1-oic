@@ -1,0 +1,10 @@
+# Environnements virtuels Python
+venv/
+__pycache__/
+
+# Depot d'essai genere par le script de demonstration
+exercice_1_1/demo_git_ied/
+
+# Fichiers generes par les programmes
+exercice_2_2/nutriscore.png
+exercice_2_2/marques.png
