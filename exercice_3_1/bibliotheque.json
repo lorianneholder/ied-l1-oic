@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "titre": "Structure and Interpretation of Computer Programs",
+    "auteur": "Abelson & Sussman",
+    "categorie": "Programmation",
+    "annee": 1985,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 2,
+    "titre": "Le Petit Livre du Python",
+    "auteur": "Bob Cordeau",
+    "categorie": "Programmation",
+    "annee": 2018,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 3,
+    "titre": "Clean Code",
+    "auteur": "Robert C. Martin",
+    "categorie": "Genie logiciel",
+    "annee": 2008,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 4,
+    "titre": "The Pragmatic Programmer",
+    "auteur": "Hunt & Thomas",
+    "categorie": "Genie logiciel",
+    "annee": 1999,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 5,
+    "titre": "Refactoring",
+    "auteur": "Martin Fowler",
+    "categorie": "Genie logiciel",
+    "annee": 1999,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 6,
+    "titre": "Design Patterns",
+    "auteur": "Gamma, Helm, Johnson, Vlissides",
+    "categorie": "Genie logiciel",
+    "annee": 1994,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 7,
+    "titre": "Computer Networks",
+    "auteur": "Andrew S. Tanenbaum",
+    "categorie": "Reseau",
+    "annee": 2010,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 8,
+    "titre": "TCP/IP Illustrated, Volume 1",
+    "auteur": "W. Richard Stevens",
+    "categorie": "Reseau",
+    "annee": 1994,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 9,
+    "titre": "HTTP: The Definitive Guide",
+    "auteur": "Gourley & Totty",
+    "categorie": "Reseau",
+    "annee": 2002,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 10,
+    "titre": "Operating Systems: Three Easy Pieces",
+    "auteur": "Arpaci-Dusseau",
+    "categorie": "Systeme",
+    "annee": 2018,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 11,
+    "titre": "Modern Operating Systems",
+    "auteur": "Andrew S. Tanenbaum",
+    "categorie": "Systeme",
+    "annee": 2014,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 12,
+    "titre": "The Linux Command Line",
+    "auteur": "William Shotts",
+    "categorie": "Systeme",
+    "annee": 2012,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 13,
+    "titre": "Pro Git",
+    "auteur": "Chacon & Straub",
+    "categorie": "Outils collaboratifs",
+    "annee": 2014,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 14,
+    "titre": "Introduction to Algorithms",
+    "auteur": "Cormen, Leiserson, Rivest, Stein",
+    "categorie": "Algorithmique",
+    "annee": 2009,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 15,
+    "titre": "Algorithms",
+    "auteur": "Sedgewick & Wayne",
+    "categorie": "Algorithmique",
+    "annee": 2011,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 16,
+    "titre": "Grokking Algorithms",
+    "auteur": "Aditya Bhargava",
+    "categorie": "Algorithmique",
+    "annee": 2016,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 17,
+    "titre": "Designing Data-Intensive Applications",
+    "auteur": "Martin Kleppmann",
+    "categorie": "Bases de donnees",
+    "annee": 2017,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 18,
+    "titre": "SQL Antipatterns",
+    "auteur": "Bill Karwin",
+    "categorie": "Bases de donnees",
+    "annee": 2010,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 19,
+    "titre": "Securite informatique : principes et methodes",
+    "auteur": "Laurent Bloch",
+    "categorie": "Securite",
+    "annee": 2016,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 20,
+    "titre": "Serious Cryptography",
+    "auteur": "Jean-Philippe Aumasson",
+    "categorie": "Securite",
+    "annee": 2017,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 21,
+    "titre": "The Web Application Hacker's Handbook",
+    "auteur": "Stuttard & Pinto",
+    "categorie": "Securite",
+    "annee": 2011,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 22,
+    "titre": "Eloquent JavaScript",
+    "auteur": "Marijn Haverbeke",
+    "categorie": "Programmation",
+    "annee": 2018,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 23,
+    "titre": "Fluent Python",
+    "auteur": "Luciano Ramalho",
+    "categorie": "Programmation",
+    "annee": 2022,
+    "note": 5,
+    "lu": true
+  },
+  {
+    "id": 24,
+    "titre": "The Mythical Man-Month",
+    "auteur": "Frederick P. Brooks",
+    "categorie": "Genie logiciel",
+    "annee": 1975,
+    "note": 4,
+    "lu": true
+  },
+  {
+    "id": 25,
+    "titre": "Site Reliability Engineering",
+    "auteur": "Beyer, Jones, Petoff, Murphy",
+    "categorie": "Systeme",
+    "annee": 2016,
+    "note": 4,
+    "lu": true
+  }
+]
