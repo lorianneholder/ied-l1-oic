@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/loriane/Documents/outils/files/IED - L1 - OIC - CHAPITRE 1a4 - Lorianne Holder - 080307575JD/rendu/code/exercice_2_2/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
